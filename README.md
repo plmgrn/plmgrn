@@ -1,6 +1,6 @@
 Otto Palmgren
 
-Studying Computing Sciences in Tampere University
+Studying Computing Sciences BSc. Tech.  @Tampere University
 
 Experience in following areas:
 Python
