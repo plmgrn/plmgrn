@@ -18,6 +18,8 @@ Matlab
 
 This GitHub includes:
 
-COMP.CS.100 Python (Coding Basics) (Includes few "bigger" projects)
+COMP.CS.100 |Python| (Coding Basics) (Includes few projects)
 
-COMP.CS.110 C++ (Structures) (Includes a few projects)
+COMP.CS.110 |C++| (Structures) (Includes a few projects)
+
+Tampere Traffic Cameras |Python| (Tampere public API)
