@@ -22,4 +22,6 @@ COMP.CS.100 |Python| (Coding Basics) (Includes few projects)
 
 COMP.CS.110 |C++| (Structures) (Includes a few projects)
 
+COMP.CS.300 |C++| (Graphs & Algorithms) (Includes course project ph.1)
+
 Tampere Traffic Cameras |Python| (Tampere public API)
