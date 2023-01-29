@@ -24,4 +24,6 @@ COMP.CS.110 |C++| (Structures) (Includes a few projects)
 
 COMP.CS.300 |C++| (Graphs & Algorithms) (Includes course project ph.1)
 
+MATH.APP.270 |Python| (Graphalgorithms)
+
 Tampere Traffic Cameras |Python| (Tampere public API)
