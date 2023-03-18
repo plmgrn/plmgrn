@@ -5,7 +5,9 @@ Studying Computing Sciences BSc. Tech.  @Tampere University
 Experience in following areas:
 Python
 C++
+SQL
 HTML
+JS
 
 Used software:
 Qt creator
@@ -24,6 +26,6 @@ COMP.CS.110 |C++| (Structures) (Includes a few projects)
 
 COMP.CS.300 |C++| (Graphs & Algorithms) (Includes course project ph.1)
 
-MATH.APP.270 |Python| (Graphalgorithms)
+MATH.APP.270 |Python| (Graphalgorithms) (Includes course project: Graph analysis vk7)
 
 Tampere Traffic Cameras |Python| (Tampere public API)
