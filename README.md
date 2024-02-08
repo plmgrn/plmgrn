@@ -2,16 +2,18 @@ Otto Palmgren
 
 Studying Computing Sciences BSc. Tech.  @Tampere University
 
-Experience in following areas:
+Experience in following areas (but not limited to):
+Java
 Python
 C++
 SQL
 HTML
 JS
 
-Used software:
+Used (but not limited to):
+NetBeans
 Qt creator
-GitHub
+Git
 VisualStudio
 PyCharm
 GIMP
@@ -20,12 +22,12 @@ Matlab
 
 This GitHub includes:
 
-COMP.CS.100 |Python| (Coding Basics) (Includes few projects)
+COMP.CS.100 |Python| (Coding Basics)
 
-COMP.CS.110 |C++| (Structures) (Includes a few projects)
+COMP.CS.110 |C++| (Structures)
 
-COMP.CS.300 |C++| (Graphs & Algorithms) (Includes course project ph.1)
+COMP.CS.300 |C++| (Graphs & Algorithms)
 
-MATH.APP.270 |Python| (Graphalgorithms) (Includes course project: Graph analysis vk7)
+MATH.APP.270 |Python| (Graphalgorithms)
 
 Tampere Traffic Cameras |Python| (Tampere public API)
