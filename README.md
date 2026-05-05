@@ -1,33 +1,57 @@
 Otto Palmgren
 
-Studying Computing Sciences BSc. Tech.  @Tampere University
-
-Experience in following areas (but not limited to):
-Java
-Python
-C++
-SQL
-HTML
-JS
-
-Used (but not limited to):
-NetBeans
-Qt creator
-Git
-VisualStudio
-PyCharm
-GIMP
-Matlab
+*Studying Computing Sciences B.Sc./M.Sc. Tech.  @Tampere University*
 
 
-This GitHub includes:
+> Currently **looking for opportunities** working part-/fulltime. Contact on [LinkedIn](https://linkedin.com/in/otto-palmgren) (or somewhere else.)
 
-COMP.CS.100 |Python| (Coding Basics)
+> Location: [Tampere] [Remote] [Other?]
 
-COMP.CS.110 |C++| (Structures)
 
-COMP.CS.300 |C++| (Graphs & Algorithms)
+<br><br><br>
 
-MATH.APP.270 |Python| (Graphalgorithms)
 
-Tampere Traffic Cameras |Python| (Tampere public API)
+### Personal Projects (the so-called *'pieru-äppi'* domain)
+
+---
+
+#### [Tampere Traffic Cameras](https://github.com/plmgrn/Tampere_Traffic_Cameras)
+  - GUI software written with **python+tkinter** that fetches latest images from available traffic cameras around Tampere.
+  - Uses the Tampere API, link in the repo.
+
+---
+
+<br>
+<br>
+<br>
+
+
+### Tampere University CS courses (TUNI)
+
+---
+
+*(Reference implementations/solutions)*
+
+These are not maintained, but instead uploaded once after the course. 
+
+Code might be terrible and I do not recommend using this as any sort of reference point for anything.
+
+<br>
+
+| Course | Language | Topic |
+|------------|----------|-------|
+| [COMP.CS.100](https://github.com/plmgrn/COMP.CS.100) | **Python** | Coding basics |
+| [COMP.CS.110](https://github.com/plmgrn/COMP.CS.110) | **C++** | Structures |
+| [COMP.CS.300](https://github.com/plmgrn/COMP.CS.300) | **C++** | Graphs & Algorithms |
+| [MATH.APP.270](https://github.com/plmgrn/MATH.APP.270) | **Python** | Graph Algorithms *(Maths course)* |
+
+---
+
+<br><br><br><br><br>
+
+### BUZZWORDS
+```bash
+C/C++, ABI, FOSS, Library, CMake, Gtest, QA, frontend, backend, VSCode, WSL, Linux,
+CI/CD, fullstack, Project management, API, WASM, cffi, CSS, valgrind, CTest,
+Java, Python, SQL, HTML, JS, NetBeans, Qt creator, Git, PyCharm, GIMP, Matlab
+```
