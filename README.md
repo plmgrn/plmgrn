@@ -15,6 +15,12 @@ Otto Palmgren
 
 ---
 
+#### [Search on PriceCharting](https://github.com/plmgrn/pricecharting-search)
+  - Browser add-on for chrome+firefox to enable pricecharting search queries with highlighted text from the context menu
+  - Supports local add-on settings for search preferences
+
+<br>
+
 #### [Tampere Traffic Cameras](https://github.com/plmgrn/Tampere_Traffic_Cameras)
   - GUI software written with **python+tkinter** that fetches latest images from available traffic cameras around Tampere.
   - Uses the Tampere API, link in the repo.
