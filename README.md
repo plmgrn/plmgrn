@@ -15,6 +15,15 @@ Otto Palmgren
 
 ---
 
+#### [Bloodborne Armor Optimizer](https://github.com/plmgrn/pricecharting-search) [(Website)](https://plmgrn.github.io/Bloodborne-ArmorOptimizer/)
+  - A tool for creating attire combinations for Bloodborne
+  - Intention to provide a service, where one can create e.g. the attire-set with maximum resist in one stat
+  - I created this originally with Excel and a VBA script, but now I ported it to TS to use a backend for the website using vite
+  - The funny part is that the original research premise of possible **improvement on the BiS attire combination** turned out to be practically ***impossible***
+  - *There truly is one set of attire that is the generally the best in every scenario..*
+  
+<br>
+
 #### [Search on PriceCharting](https://github.com/plmgrn/pricecharting-search)
   - Browser add-on for chrome+firefox to enable pricecharting search queries with highlighted text from the context menu
   - Supports local add-on settings for search preferences
